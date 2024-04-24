@@ -1,0 +1,6 @@
+.main-title {
+    color: var(--main-red);
+    margin-top: 3rem;
+    font-size: 4rem;
+    font-weight: bolder;
+}
